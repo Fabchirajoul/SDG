@@ -1,0 +1,476 @@
+SDGFOURTEEN
+Abalone
+Acropora
+Albacore
+Algaculture
+Algae
+Amberjack
+American shad
+Amsterdam albatross
+Anabaena circinalis
+Anatidae
+Anchoa
+Anchovy
+Anglerfish
+Anguillidae
+Anisakidae
+Anisakis simplex
+Anisakis sp.
+Antarctic toothfish
+Anthozoa
+Aphanizomenon
+Aphotic zone
+Applied ecology
+AquAdvantage salmon
+Aquaculture
+Aquaculture engineering
+Aquaculture in Canada
+Aquaculture in China
+Aquaculture industry
+Aquaculture management
+Aquaculture of catfish
+Aquaculture of cobia
+Aquaculture of coral
+Aquaculture of tilapia
+Aquaculture wastewater
+Aquaponics
+Aquatic animal
+Aquatic biodiversity research
+Aquatic environment
+Aquatic organisms
+Aquatic plant
+Aquatic science
+Arboreal locomotion
+Arctic
+Argyrosomus regius
+Arthrocardia corymbosa
+Artificial feeds
+Artificial reef
+Artificial reefs
+Artisanal fishing
+Atoll
+Aurantiactinomyxon
+Aureococcus anophagefferens
+Baltic basin
+Baltic sea
+Barrier reef
+Bass (fish)
+Bay
+Best Aquaculture Practices
+Big-game fishing
+Bigeye tuna
+Biodiversity
+Biodiversity conservation
+Bioirrigation
+Bioreporter
+Black sea
+Blue marlin
+Bonefish
+Bottlenose dolphin
+Bottom fishing
+Bottom trawling
+British Indian Ocean Territory
+Broodstock
+Bycatch
+Bycatch reduction device
+CITES
+CTD
+Cabled observatory
+Cage aquaculture
+Cage culture
+Caligus elongatus
+Carassius auratus
+Carcharhinus
+Carp
+Catch and release
+Catch per unit effort
+Catch reporting
+Cero
+Cetacea
+Chanidae
+Chilean flounder
+Chilodonella hexasticha
+Chondrichthyes
+Chromophycota
+Chrysoblephus laticeps
+Coarse fishing
+Coarse woody debris
+Coastal Zone Management Act
+Coastal flood
+Coastal hazards
+Coastal management
+Coastal zone
+Cod fisheries
+Commercial fish feed
+Commercial fishing
+Common sole
+Commoner
+Condition index
+Conservation status
+Coral
+Coral Triangle
+Coral bleaching
+Coral cover
+Coral growth
+Coral reef
+Coral reef fish
+Coral reef management
+Coral reef protection
+Coral skeleton
+Coral species
+Coralline algae
+Crab fisheries
+Crustacean
+Cyprinidae
+Cyprinodontiformes
+Danio
+Deep scattering layer
+Deep sea
+Deep water
+Deep-water coral
+Demersal fish
+Demersal zone
+Destructive fishing practices
+Diatom
+Dicentrarchus
+Dichistius
+Diel vertical migration
+Dietary Fish
+Dietary fish oil
+Diplectanum aequans
+Dredging
+Dried fish
+Drip irrigation
+E-research
+Ecological connectivity
+Ecosystem approach
+Ecosystem-based management
+Electrofishing
+Ellisolandia elongata
+Endeavour Hydrothermal Vents
+Environmental change
+Epizootic ulcerative syndrome
+Escape response
+Essential fish habitat
+Estuarine acidification
+Estuarine water circulation
+Etelis coruscans
+Eutrophication
+Exclusive economic zone
+External parasites
+Feed-in tariff
+Feeder fish
+Fire coral
+Fish aggregating device
+Fish as food
+Fish diseases and parasites
+Fish farming
+Fish growth
+Fish hatchery
+Fish health
+Fish locomotion
+Fish marketing
+Fish measurement
+Fish migration
+Fish mortality
+Fish physiology
+Fish pond
+Fish preservation
+Fish products
+Fish reproduction
+Fish resources
+Fish species
+Fish stock
+Fish stocking
+Fish trap
+Fisheries Act
+Fisheries Research
+Fisheries co-management
+Fisheries law
+Fisheries management
+Fisheries science
+Fishery
+Fishing
+Fishing down the food web
+Fishing fleet
+Fishing industry
+Fishing line
+Fishing net
+Fishing techniques
+Fishing trip
+Fishing village
+Fjord
+Flatfish
+Flounder
+Food availability
+Forage fish
+Forward genetics
+Freshwater fish
+Freshwater inflow
+Freshwater prawn farming
+Fringing reef
+Gadus
+Galjoen
+Game fish
+Genetic monitoring
+Genetic screen
+Geoduck aquaculture
+Ghost net
+Gill
+Gillnetting
+Gilthead Seabream
+Glitter
+Gonadal histology
+Grass carp
+Great Pacific garbage patch
+Great barrier reef
+Groundfish
+Gulf Stream
+Halimeda
+Hatchery
+Hermatypic coral
+Herring
+Hippoglossus hippoglossus
+Hull
+Hydroacoustics
+Hydrobiology
+Hydrodynamic escape
+Hydrography
+Ice sheet
+Ichthyobodo necator
+Illegal fishing
+Incidental catch
+Indian ocean
+Infragravity wave
+Integrated coastal zone management
+Integrated multi-trophic aquaculture
+Intensive culture
+Intermagnet
+Internal wave
+International waters
+Invertebrate
+Irish sea
+Iterative deepening depth-first search
+JAW MALFORMATION
+Jellyfish
+King mackerel
+King tide
+Krill
+Lake ecosystem
+Lamniformes
+Lamprey
+Land uplift
+Large marine ecosystem
+Limacina helicina
+Limacina retroversa
+Limnology
+Littoral zone
+Live feed
+Longline fishing
+Lunar Cycle
+Lysekil Project
+Mackerel
+Macrobrachium
+Macrophyte
+Managed retreat
+Mangrove red snapper
+Manta trawl
+Marginopora vertebralis
+Mariculture
+Marine aquaculture
+Marine biodiversity
+Marine conservation
+Marine debris
+Marine ecoregions
+Marine ecosystem
+Marine energy
+Marine fish
+Marine fisheries
+Marine habitats
+Marine invertebrates
+Marine life
+Marine mammal
+Marine pollution
+Marine power system
+Marine protected area
+Marine reserve
+Marine technology
+Marxan
+Maximum sustainable yield
+Menhaden
+Mercury in fish
+Mesopelagic zone
+Microplastics
+Midwater trawling
+Milkfish
+Mixed layer
+Monitoring control and surveillance
+Morphant
+Morpholino
+Mussel
+Mytilus
+Nemipterus furcosus
+New Guinean
+North sea
+Notolabrus tetricus
+Ocean Biogeographic Information System
+Ocean Observatories Initiative
+Ocean acidification
+Ocean acoustic tomography
+Ocean current
+Ocean fisheries
+Ocean surface topography
+Oceanic climate
+Oceanography
+Octopus aquaculture
+Onchocerciasis
+Oncorhynchus
+Optimum sustainable yield
+Orange roughy
+Oreochromis
+Oreochromis karongae
+Oreochromis shiranus
+Oreochromis spilurus
+Organic aquaculture
+Organic base
+Organic form
+Otolith
+Overfishing
+Oyster
+Oyster farming
+PH decrease
+Pacific ocean
+Paleoceanography
+Panmixia
+Past sea level
+Pelagic zone
+Penaeus monodon
+Perch
+Perciformes
+Pharyngula
+Photic zone
+Physical oceanography
+Plankton
+Plastisphere
+Pocillopora
+Pocillopora damicornis
+Poeciliidae
+Polyculture
+Pop-up satellite archival tag
+Porcupine Abyssal Plain
+Porites
+Porolithon onkodes
+Prawn
+Prepared fish
+Primary energy
+Prionace glauca
+Protolith
+Quota Management System
+Rainbow trout
+Rate of exploitation
+Recirculating aquaculture system
+Recreational fishing
+Red morwong
+Red tide
+Reef
+Reef lagoon
+Reef system
+Reference Document
+Revelle factor
+River ecosystem
+River shiner
+Robot fish
+Rossby wave
+SWEAT
+Sailfish
+Salinity
+Salmon aquaculture
+Salmon farming
+Salmon fishery
+Sardine
+Sargasso sea
+Scallop
+Sea bass
+Sea cage
+Sea cucumber
+Sea herring
+Sea ice
+Sea level
+Sea level rise
+Sea louse
+Sea surface temperature
+Seabed
+Seabird
+Seine fishing
+Serranidae
+Shark finning
+Shoaling and schooling
+Shortfin mako shark
+Shrimp
+Shrimp aquaculture
+Shrimp farming
+Shrimp fishery
+Silky shark
+Simple sample
+Skipjack
+Skipjack tuna
+Skretting
+Small scale fishing
+Smith–Magenis syndrome
+Smoked fish
+Solea senegalensis
+Sparidae
+Spawn (biology)
+Spawning habitat
+Spawning site
+Spectroradiometer
+Spiny dogfish
+Sprat
+Sprattus sprattus
+Spring bloom
+Squid
+Stakeholder management
+Stock Recovery
+Stock synthesis
+Striped trumpeter
+Sturgeon
+Subirrigation
+Submarine pipeline
+Surface pressure
+Surplus production
+Sustainable aquaculture
+Sustainable fishery
+Swimming speed
+Swordfish
+Tangle net
+Teleostei
+Thermohaline circulation
+Tiger shark
+Topographic complexity
+Trawling
+Trichodina reticulata
+Trout
+Tuna
+Turbot
+Turtle excluder device
+Underwater
+Underwater acoustics
+Underwater glider
+Upwelling
+Vessel monitoring system
+Water mass
+Wave power
+Wave power plants
+Wave setup
+Waves and shallow water
+Wave–current interaction
+Whale
+Whiteleg shrimp
+Wild fisheries
+Wildlife management
+Wind wave
+World Database on Protected Areas
+World Register of Marine Species
+World fisheries production
+Yellowfin tuna
+Zooplankton
